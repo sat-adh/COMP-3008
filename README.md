@@ -1,6 +1,6 @@
 # COMP-3008
-Human-Computer Interaction Course Work at Carleton University
+Human-Computer Interaction Course Work at Carleton University <br/>
 
-Instructor: Sana Maqsood
-Term: Winter 2022
+Instructor: Sana Maqsood <br/>
+Term: Winter 2022 <br/>
 Final Grade: 96%
