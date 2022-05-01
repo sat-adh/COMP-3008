@@ -1,0 +1,34 @@
+Part 1. System Proposal
+In this assignment, you are to develop conceptual models and prototypes for a new system. You may choose the same system you considered in Assignment 3 Part 2 (A3-2) and make small changes if you wish.
+
+Alternatively, you may choose a different system, but it should be based on the same domain as the website assigned for Assignment 2. As specified in A3-2, the new system could be a website, software product, or a service.
+
+State a name for your product, and write a descriptive pitch, which states the connection with the website you chose and emphasize the benefits of your proposed product. Use 100 words maximum.
+
+Part 2. Metaphor and Interaction Types
+a). Propose a user interaction metaphor for your system. Some examples of UI metaphors include: the operating system is a desktop, the booking system is a theatre, the banking system is a vault. Brainstorm and suggest a metaphor which seems reasonable for your system.
+
+State the metaphor.
+List advantages of the metaphor, meaning how it will help the user learn and understand your system.
+List disadvantages of the metaphor, meaning how it might create difficulties for the user, either by suggesting some aspects of your system incorrectly, or by limitations or lack of support for some aspect of your system.
+Explain whether the metaphor is sufficiently promising and is worth making a prototype based on the metaphor
+Use a maximum of 300 words.
+
+b). Consider which interaction type would be best for your system. In particular, compare instruction, conversing, and manipulating. State the advantages and disadvantages of each for your system. Use a maximum of 300 words.
+
+Part 3. Low-fidelity prototypes
+a). Create two low-fidelity prototypes for your product, using Balsamiq or another prototyping tool of your choose. If you would like to use Balsamiq, we have a course-based licence for it which you can install using the following information: 
+
+The prototypes should be distinct in some significant way. For example one prototype may use a metaphor while another may not. Similarly, prototypes could use different interaction types, or different visual designs and layouts.
+
+Each prototype should:
+
+Have at least three main screens.
+Include comments or callouts to explain key design features.
+Use at least three interactive elements, simulated using links.
+Use principles of layout (contrast, repetition, alignment, proximity) and highlight at least two with comments explaining the intent of the layout.
+Use any UI patterns you think would be useful, and highlight at least two patterns with comments explaining why they are appropriate. Use patterns proposed by Tidwell, or those which are based on well-known designs in other software (name the software).
+b). For one prototype, create a storyboard using screenshots of the prototype to illustrate a sequence (at least 4 steps) that users would follow in using the system for some significant activity. Create the storyboard by taking screenshots or a saved pdf of each step, and then putting them in a sequence. Write a comment (100 words max) for each screen, explaining the user goals and the actions they will take to accomplish them on that screen.
+
+Part 4. Appendix
+If you make pen or pencil sketches to develop your ideas for any section above, scan or photograph them: they will be considered to potentially improve your marks for the relevant section(s)

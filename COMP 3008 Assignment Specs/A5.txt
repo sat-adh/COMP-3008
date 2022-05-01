@@ -1,0 +1,23 @@
+Chose one of the three websites given to you, and imagine an innovative new project in the same domain, either as a website, desktop or mobile app.  Suggest how the interaction design of the new project might be based on one of the following cognitive frameworks: Mental Models or External Cognition (including Distributed Cognition).
+
+A. (20/100 Marks)
+Describe which website you selected, and provide a brief pitch for your new project.  State which cognitive framework you selected. Explain what unique advantages you think this cognitive framework can offer in this domain, and how you plan to apply it to your project. Use 250 words maximum.
+
+B. (30/100 Marks)
+Use Balsamiq or another prototyping tool of your choosing to create a lo-fi prototype for your design. Include at least 3 main screens that show how the cognitive framework is being used.
+
+Citing specific features in your new design, and including images from the prototype, explain how your design leverages the principles of the chosen cognitive framework to benefit the user, and how this design is innovative. Use 400 words maximum.
+
+Part 2. Emotional Interaction (50/100 Marks)
+Chose one of the three websites, and imagine an innovative new project in the same domain, either as a website, or desktop or mobile app.  Suggest how the interaction design of the new project might be influenced by Emotional Interaction.
+
+A. (20/100 Marks)
+State which website you selected, and a brief pitch for your new project.  Explain what unique advantages you think Emotional Interaction can offer in this domain, and how you plan to apply Emotional Interaction to your project. Use 250 words maximum.
+
+B. (30/100 Marks)
+Use Balsamiq or another prototyping tool of your choosing to create a lo-fi prototype for your design. Include at least 2 main screens that show how Emotional Interaction is being used.
+
+Citing specific features in your new design, and including images from the prototype, explain how your design leverages the principles of emotional interaction to benefit the user, and how this design is innovative. Use 400 words maximum.
+
+Appendix
+If you make pen or pencil sketches to develop your ideas for any section above, scan or photograph them: they will be considered to potentially improve your marks for the relevant section(s).

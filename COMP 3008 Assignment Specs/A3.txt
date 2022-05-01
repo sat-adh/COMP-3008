@@ -1,0 +1,64 @@
+Part 1.  Interview
+You will be conducting brief interviews with 2 participants about an HCI-related topic.  Your goal is to understand (i) how users use a given technology, (ii) their understanding of how it works, and (iii) their concerns. Imagine that you are in the early stages of preparing to design a new version of the system and want to understand users' current experiences. 
+
+a). Select a specific topic from Week 5 (Feb 7) or Week 6 (Feb 14)
+For example, you might inquire about users' perception of one of the following topics.  Other topics are possible if they fit within the Week 5 or 6 content. If you are unsure about your selected topic, ask the instructor, TAs, or post on BrightSpace.
+
+a type of wearable device (e.g., fitness tracker, wearable textiles, smartwatch)
+virtual reality interaction
+haptic feedback (e.g., force feedback touchpad or mouse)
+public, large interactive display (e.g., in shopping malls or airports)
+Smart speakers (e.g., Alexa or Google Home)
+Smart home devices (e.g., smart appliances, thermostats, lights, tv)
+Command-line interfaces (e.g., a unix-based editor)
+large multi-user displays (e.g., SMART board)
+typing interaction (e.g., keyboard vs on-screen)
+on-screen selections (e.g., mouse vs touchpad vs touchscreen)
+voice-activated digital assistants (e.g., Siri)
+self-driving cars
+privacy implications of smart speakers (Alexa, Google Home)
+two-factor authentication
+some kind of biometric (e.g., for phone, laptop)
+privacy settings for a social network
+email encryption 
+password manager
+website privacy policies
+privacy settings for a wearable device an IoT device
+b). Prepare a set of interview questions 
+Your interview script should typically include about 5 questions to gain an understanding of your participants' mental models and perception of this topic. Your questions should be open-ended, to encourage participants to expand on their answers. You should also consider a few probes to encourage more detail (e.g., Can you tell me more about that? How do you think that works? Do you have an example?)
+
+Design your study according to the parameters set out in the Research Ethics Board (REB) protocol provided in the week 3 folder and prepare the Informed Consent form that your participants will read and sign before participation.  Make sure you understand the protocol and edit the highlighted yellow areas of the forms for your study. 
+
+c). Interview 2 participants
+For this pilot study, the two participants should be someone you know (e.g., friends, family, roommates).Interviews should primarily be done remotely via phone or video-conferencing. They can only be done in-person if you live with the user. When done remotely, participants should email you the signed Informed Consent form prior to the interview
+
+Interviews should last no more than 15 minutes.  You can take notes of what the person is saying, or you may audio-record the interview if the participant provides consent on the informed consent form.
+
+All collected data should be anonymized: there should be no link between the participant's identity and their data. During data collection, identify your participants using a username (e.g., P1, P2, P3). Do not link the consent form and the username. 
+
+This assignment is intended as a pilot study to gain practice at designing and running user studies. You should only be recruiting people you know (do not recruit strangers or large numbers of people). No one should be forced to participate and you should not take too much of their time. 
+
+Store your study artifacts (signed consent form, audio recordings, notes, etc.) in a safe, password-protected location (or a physically safe space for paper artifacts) until June 2022.  Then, these should be securely destroyed. 
+
+d). Analyze and report on your findings.  
+Review your notes and/or listen to the audio-recordings of the interviews.  Write a report that includes the following items.  The word counts are rough guidelines only, quality is more important than quantity (and higher quantity does not necessarily equal  higher quality!).
+
+A description of your interview topic and the main interview questions.  (approximately 100-150 words)
+For each interview, write a summary of the main points identified. What were the main uses? What was the participant's mental model (i.e., current understanding)? What were their main concerns? (approximately 250-300 words in total across both participants)
+Identify common themes or trends.  What are the main insights that you gained from these interviews? Did participants generally have the same understanding and perceptions or were they very different? Were there any common misconceptions? (approximately 200-300 words). Include any relevant information in the appendices as supplementary material (e.g., raw interview or analysis notes). 
+Reflect on the process of conducting and analyzing interviews.  Did it unfold as you expected?  What challenges came up? (100-150 words)
+Part 2. Requirements representation
+a). Pitch a new software project.
+Consider the website you were assigned for Assignment 2. Imagine a new software project in the same general domain. It might be a website, or a software product or service. State a name for your project, and write a descriptive pitch (max. 100 words), stating the connection with the website you chose, and emphasize the purpose and benefits of your proposed new project. 
+
+b). Identify Personas.
+Imagine you have conducted contextual interviews for your new project. Now identify two personas that represent important and distinct kinds of users. For each, create persona descriptions in the manner of Textbook Figure 11.6, 11.7, or 11.8 (or Week 7: requirements gathering slides 8-10). Each persona should:
+Be on a single page
+Have a name (e.g. Ginnie) and a tag (e.g. Family Traveler)
+Show details for their biography, their motivations, and their frustrations
+Show images depicting the persona and their interests
+Use no more than 150 words each and no more than 10 images per persona.  
+c). Persona Importance and Impact.
+For each Persona, write a paragraph describing why they are important for your project, and how they would likely affect the interaction design. (Max. 150 words per persona.)
+d). Create a Scenario.
+Write a Scenario that represents a situation where your system will be used. Use the format identified in the Textbook Figure 11.9 (or Week 7 requirements gathering - slides 28-29). Make sure the scenario realistically represents a significant activity where your software would be used. In particular, the scenario should include enough detail to make the challenges and benefits evident. Use at least 150 words to describe your scenario, but no more than 250 words.

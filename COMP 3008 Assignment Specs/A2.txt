@@ -1,0 +1,51 @@
+Design your study according to the parameters set out in the Research Ethics Board (REB) protocol provided in the week 3 folder and prepare the Informed Consent form that your participants will read and sign before participation.  Make sure you understand the protocol and edit the highlighted yellow areas of the forms for your study. 
+
+Study sessions should take no more than 10-15 minutes per participant.  Plan your study tasks and survey accordingly.
+
+a) Identify and describe 2 tasks for your users to complete.
+These should be multi-step tasks and represent typical tasks that a user might complete on the website. Example tasks could be:  (i) selecting a cookbook to purchase on a shopping website, (ii) finding information about available jobs and how to apply on a company website, or (iii) choosing a flight itinerary on a travel website. 
+
+b) Create a 5 question survey. 
+The survey should gauge users' experience with the website and their opinion of the website.  Include different types of questions as described in the course content. The survey can be administered by sharing a Word document, or using a survey tool such as Google Forms. Do not collect any identifiable data.
+
+c) Describe your study setup. 
+Is this study being done in-person or remotely through videoconferencing and screensharing? How will you introduce the study to participants?
+What data is important to record? (Timing data? Observations? Number of pages visited? Consider what would give you useful information about the usability of your website
+How will you record your data?  
+Ask participants to "think-aloud" during the tasks, to help you understand what they are doing and why.
+Part 2.  Collecting data
+Collect data from 3 participants. Sessions can be done remotely via phone or video-conferencing, or can be done in-person if it is safe for you to do so (e.g., you are conducting a session with someone who lives with you). If done remotely, the participant should email you the signed Informed Consent form.
+
+If done remotely, have the participant share their screen so that you can observe their interaction with the website. 
+
+ Sessions should last no more than 15 minutes. You can take notes of what the person is saying and doing, or you may screen-record the session if the participant provides consent on the informed consent form.
+
+All collected data should be anonymized: there should be no link between the participant's identity and their data. During data collection, identify your participants using a username (e.g., P1, P2, P3). Do not link the consent form and the username. 
+
+This assignment is intended as a pilot study to gain practice at designing and running user studies. Since we are simply practicing how to conduct a user study, you should only be recruiting people you know (do not recruit strangers or large numbers of people). No one should be forced to participate and you should not take too much of their time. 
+
+Part 3.  Analyzing and interpreting results
+a) Analyze data
+Calculate summary descriptive statistics for your results (questionnaire and recorded data).  Present these in a meaningful way using graphs (e.g., boxplots, stacked bar graphs) or summary tables.  Do not simply list all data per participant.  Describe your key findings.
+
+b)  Describe and interpret your main observations
+The content of this will depend on your particular study, but you should consider the following types of questions. Use screenshots if this helps with your explanations.
+
+Which aspects of the website worked well? 
+What usability problems did you find?  
+Were users satisfied?  
+Were the problems a result of violations of design principles/concepts? 
+c) Reflect on the process
+Consider your experience in planning and conducting this study.
+
+Did it unfold as you expected?
+Was anything easier or harder than you expected?
+What would you differently if you were to do another study?
+Did anything relating to how the study was conducted influence the results?
+Report
+Your written report should follow the steps from the assignment. The word counts are rough guidelines only, quality is more important than quantity (and higher quantity does not necessarily equal  higher quality!).
+
+Briefly describe your assigned website, study methodology, and setup, including the items mentioned in Part 1. (Approximately 500 words)
+Briefly describe your participants (in an anonymized way) and whether sessions were conducted in-person or remotely. (Approximately 100-150 words)
+Briefly present your data analysis and main insights from Part 3. (Approximately 600-800 words, plus figures/tables)
+Include appendices with your session notes, analysis notes, and survey data.  These can typed or photos/scans of paper notes --- use whatever format is most appropriate for how you recorded your data.

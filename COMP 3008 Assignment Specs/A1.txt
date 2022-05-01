@@ -1,0 +1,31 @@
+Part 1.  Design Concepts
+Using your assigned website, give examples of proper application of three different design concepts covered in class (so 3 examples in total, one per concept). The design concepts are Affordance, Constraint, Mapping, Transfer Effect, Causality, Cultural Idiom.
+
+For each example:
+
+provide a screenshot clearly demonstrating the concept 
+briefly explain (1-2 sentences) how it represents the concept.
+Part 2. Heuristic Evaluation
+Using Nielsen's 10 Heuristics, conduct a modified heuristic evaluation of your assigned website. For the purpose of this assignment, you will be the only evaluator of your website.  
+
+a) Set the context (1-2 sentences per question)
+
+Who are the likely target users?
+What can these users be expected to know?
+In what context are they using this website?
+What tasks are they likely most interested in?
+b) Conduct the heuristic evaluation. 
+
+Identify 10 examples (no more than 2 unique examples per heuristic). The examples can be either (i) violations of the heuristic, or (ii) proper application of the heuristic.  If possible, identify half of each.  If you notice more violations, focus on those that are more severe.   
+
+For each example:
+
+Provide a screenshot clearly demonstrating your example.
+For violations, give a severity rating (1 = cosmetic problem, 2= minor usability problem, 3 = major usability problem, 4 = usability catastrophe).
+Briefly (1-2 sentences) explain your example and how it violates or meets the heuristic.
+Part 3.  Redesign.
+Pick any two violations that you uncovered above.  For each of these, propose how you could address the problem.  
+
+Clearly identify which violation/heuristic you are addressing
+Provide a sketch or modified screenshot showing your proposed change
+Briefly (1-2 sentences) explain how your modification addresses the problem to comply with the heuristic.
